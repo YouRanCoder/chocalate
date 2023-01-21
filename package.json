@@ -1,0 +1,14 @@
+{
+  "name": "watchcat-chocolate",
+  "version": "0.0.1",
+  "description": "a package of writing bot to use JavaScript or TypeScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "YouRan",
+  "license": "ISC",
+  "dependencies": {
+    "oicq": "^2.3.1"
+  }
+}
